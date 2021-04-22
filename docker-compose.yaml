@@ -4,6 +4,11 @@ services:
     build:
       context: ./
       dockerfile: Dockerfile.local
+    environment:
+      - db_name=bitnami_app
+      - db_username=root
+      - db_password=""
+      - db_host=mariadb
     ports:
       - '8000'
     depends_on:
