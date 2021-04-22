@@ -1,0 +1,24 @@
+{
+  "name": "php codelgniter simple web with mariadb",
+  "description": "codelgniter 3 <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/php-codelgniter-mariadb-simpleweb/blob/master/README.md' target='_blank'>simple web範本說明</a>",
+  "arguments": [
+      {
+      "key": "db.username",
+      "display": "DB Username",
+      "default_value": "iiidevops",
+      "input_type": "text"
+    },
+    {
+      "key": "db.password",
+      "display": "DB Password",
+      "default_value": "templatePassword",
+      "input_type": "password"
+    },
+    {
+      "key": "db.name",
+      "display": "DB Name",
+      "default_value": "todo_db",
+      "input_type": "text"
+    }
+  ]
+}
