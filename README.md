@@ -2,6 +2,7 @@
 
 ## 專案資料夾與檔案格式說明
 檔案可按照需求做修改，`postman_collection_local.json`是要快速部屬時進行Postman collection測試的的檔案
+
 | 型態 | 名稱 | 說明 | 路徑 |
 | --- | --- | --- | --- |
 | 資料夾 | app | 專案主要程式碼 | 根目錄 |
