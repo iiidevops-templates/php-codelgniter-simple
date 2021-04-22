@@ -4,8 +4,6 @@ services:
     build:
       context: ./
       dockerfile: Dockerfile.local
-    environment:
-      - CODEIGNITER_PROJECT_NAME=app
     ports:
       - '8000'
     depends_on:
