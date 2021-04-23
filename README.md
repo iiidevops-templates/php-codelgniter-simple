@@ -1,4 +1,5 @@
-## PHP codelgniter framework with mariadb
+## PHP codelgniter framework
+new empty project for codelgiter
 
 ## 專案資料夾與檔案格式說明
 檔案可按照需求做修改，`postman_collection_local.json`是要快速部屬時進行Postman collection測試的的檔案
