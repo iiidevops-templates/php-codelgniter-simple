@@ -1,6 +1,6 @@
 {
-  "name": "PHP codelgniter simple web",
-  "description": "codelgniter 3 <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/php-codelgniter-mariadb-simpleweb/blob/master/README.md' target='_blank'>simple web範本說明</a>",
+  "name": "PHP CodeIgniter - Simple web",
+  "description": "Codelgniter 3 <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/php-codelgniter-mariadb-simpleweb/blob/master/README.md' target='_blank'>simple web範本說明</a>",
   "arguments": [
   ]
 }
